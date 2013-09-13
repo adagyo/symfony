@@ -1,0 +1,10 @@
+/web/bundles/
+/app/bootstrap*
+/app/cache/*
+/app/logs/*
+/vendor/
+
+#Fichiers à la racine
+.tavis.yml
+LICENSE
+UPGRADE*
