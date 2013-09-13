@@ -3,6 +3,7 @@
 /app/cache/*
 /app/logs/*
 /vendor/
+/bin/
 
 #Fichiers à la racine
 .tavis.yml

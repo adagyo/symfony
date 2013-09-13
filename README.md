@@ -1,6 +1,7 @@
 Symfony Standard Edition
 ========================
 
-Base à forker pour tout nouveau proje Symfony.
-
-Version actuelle 2.3.4
+Pour tout nouveau projet Symfony:
+    * fork du repo
+    * git clone du fork
+    * php composer.phar install
